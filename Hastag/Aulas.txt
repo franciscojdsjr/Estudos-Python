@@ -1,1 +1,1 @@
-Curso Python - Aula 07.07.02 Exercícios Listas
+Curso Python - Aula 07.07.02 Exercícios Lista
