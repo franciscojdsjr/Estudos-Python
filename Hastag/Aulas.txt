@@ -1,1 +1,1 @@
-Curso Python - Aula 06.05 Métodos de String - Apresentação
+Curso Python - Aula 07.07.02 Exercícios Listas
