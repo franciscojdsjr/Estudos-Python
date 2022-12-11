@@ -16,7 +16,7 @@ def jogar_forca():
     #   letras_acertadas.append('_')
 
     
-    
+    #teste
 
 
     #enquanto não acerta ou não enforcou
