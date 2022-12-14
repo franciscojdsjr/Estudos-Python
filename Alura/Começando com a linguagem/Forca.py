@@ -1,22 +1,30 @@
 
 def jogar_forca():
-
+    
+    import random
     print('\n*****************************')
     print('Bem vindo ao jogo Forca!')
     print('***************************** \n')
     
-    palavra_secreta = 'Limao'.upper().strip()
+    arquivo = open('/home/francisco/Devlopment/Python Scripts/Alura/Começando com a linguagem/palavras.txt','r')
+    palavra = []
+    for linha in arquivo:
+        palavra.append(linha.strip())
+    arquivo.close()
+    
+
+    
+    palavra_secreta = random.choice(palavra).upper().strip()
     letras_acertadas  = ['_' for letra in palavra_secreta]
     enforcou = False
     acertou = False
     erros = 0
+    print('A Palavra possui {} Letras: {}'.format(len(palavra_secreta),letras_acertadas))
 
     #Designer tamanho da palavra secreta existe essa forma e a da linha 9
     #for letra in palavra_secreta:
     #   letras_acertadas.append('_')
 
-    
-    #teste
 
 
     #enquanto não acerta ou não enforcou
@@ -41,7 +49,7 @@ def jogar_forca():
         if acertou == True:
             print('Você acertou!')
         elif enforcou == True:
-            print('Você errou!')
+            print('Você errou! a palavra secreta era: {}'.format(palavra_secreta))
     
     print('Fim de Jogo')
         
