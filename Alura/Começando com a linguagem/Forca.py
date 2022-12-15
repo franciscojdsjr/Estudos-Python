@@ -1,21 +1,30 @@
+import random
 
-def jogar_forca():
-    
-    import random
+def mensagem_abertura ():
     print('\n*****************************')
     print('Bem vindo ao jogo Forca!')
     print('***************************** \n')
     
+def carregar_palavra_secreta():
     arquivo = open('/home/francisco/Devlopment/Python Scripts/Alura/Começando com a linguagem/palavras.txt','r')
     palavra = []
     for linha in arquivo:
-        palavra.append(linha.strip())
+        linha = linha.strip() ##tratando retirando espaços
+        palavra.append(linha)
     arquivo.close()
-    
-
-    
     palavra_secreta = random.choice(palavra).upper().strip()
-    letras_acertadas  = ['_' for letra in palavra_secreta]
+    return palavra_secreta
+
+def carregar_letras_acertadas(palavra):
+    return ['_' for letra in palavra]
+
+
+def jogar_forca():
+    
+    mensagem_abertura()
+
+    palavra_secreta = carregar_palavra_secreta()
+    letras_acertadas  = carregar_letras_acertadas(palavra_secreta)
     enforcou = False
     acertou = False
     erros = 0
