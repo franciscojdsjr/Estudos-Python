@@ -1,19 +1,47 @@
 class Conta:
     
     def __init__(self,numero,titular,saldo,limite) -> None:
-        self.numero = numero
-        self.titular = titular
-        self.saldo = saldo
-        self.limite = limite
+        self.__numero = numero
+        self.__titular = titular
+        self.__saldo = saldo
+        self.__limite = limite
         
     def extrato(self):
-        print('O saldo de {} do titular {} e possui limite autorizado de {}'.format(self.saldo, self.titular, self.limite))
+        print('O saldo de {} do titular {} e possui limite autorizado de {}'.format(self.__saldo, self.__titular, self.__limite))
         
     def depositar(self,valor):
-        self.saldo += valor
+        self.__saldo += valor
+        
+    def __pode_sacar(self,valor):
+        limite_disponivel = (self.__saldo + self.__limite)
+        return valor <= limite_disponivel
     
     def sacar(self,valor):
-        if valor <= self.saldo:
-            self.saldo -= valor
+        if self.__pode_sacar(valor):
+            self.__saldo -= valor
         else:
-            print('Saque invalido, seu saldo é de {} e você tentou sacar {}'.format(self.saldo,valor))
+            print('Saque não realizado, seu saldo é de {}, seu limite de {} e você tentou sacar {}'.format(self.__saldo,self.__limite,valor))
+            
+    def transferir(self,valor,destino):
+        if self.__pode_sacar(valor):
+            self.__saldo -= valor
+        else:
+            print('Transferencia não realizada, seu saldo é de {}, seu limite de {} e você tentou transferir {}'.format(self.__saldo,self.__limite,valor))
+        destino.__saldo += valor
+        print('Você transferiu: {} para a conta de {} e seu saldo agora é {}'.format(valor,destino.titular,self.__saldo))
+        
+    @property    
+    def saldo(self):
+        return self.__saldo
+    @property
+    def titular(self):
+        return self.__titular
+
+    @property
+    def limite(self):
+        return self.__limite
+    
+    @limite.setter
+    def limite(self, limite):
+        self.__limite = limite 
+        
