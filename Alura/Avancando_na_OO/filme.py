@@ -39,3 +39,14 @@ class Serie(Programa):
         super().__init__(nome, ano)
         self._temporadas = temporadas
         
+vingadores = Filme('vingadores - guerra infinita', 2018, 160)
+atlanta = Serie('atlanta', 2018, 2)
+vingadores.dar_likes()
+vingadores.dar_likes()
+vingadores.dar_likes()
+
+atlanta.dar_likes()
+atlanta.dar_likes()
+
+print(f'Nome: {vingadores.nome} - Likes: {vingadores.likes}')
+print(f'Nome: {atlanta.nome} - Likes: {atlanta.likes}')
