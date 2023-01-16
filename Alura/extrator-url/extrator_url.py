@@ -5,6 +5,15 @@ class ExtratorURL:
     def __init__(self, url):
         self.url = self.sanitiza_url(url)
         self.valida_url()
+    
+    def __len__(self):
+        return len(self.url)
+    
+    def __str__(self):
+        return self.url + '\n' + 'Paramêtros: ' + self.get_url_parametros() + '\n' + 'URL Base: ' + self.get_url_base()
+    
+    def __eq__ (self,other):
+        return self.url == other.url
         
     def sanitiza_url(self, url):
         if type(url) == str:
@@ -40,11 +49,19 @@ class ExtratorURL:
         else:
             valor = self.get_url_parametros()[indice_valor:indice_e_comercial]
         return valor
+    
+
+    
+    
 
 
 url = "bytebank.com/cambio?quantidade=100&moedaOrigem=real&moedaDestino=dolar"
 extrator_url = ExtratorURL(url)
+extrator_url2 = ExtratorURL(url)
+#print(len(extrator_url))
 valor_quantidade = extrator_url.get_valor_parametro("quantidade")
-print(valor_quantidade)
+print(extrator_url)
+print(extrator_url == extrator_url2)
+#print(valor_quantidade)
 
 
