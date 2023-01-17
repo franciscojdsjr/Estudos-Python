@@ -5,13 +5,14 @@ class ExtratorURL:
     def __init__(self, url):
         self.url = self.sanitiza_url(url)
         self.valida_url()
-    
+
+#Retorna tamanho da string
     def __len__(self):
         return len(self.url)
-    
+##retorna o print no objeto
     def __str__(self):
         return self.url + '\n' + 'Paramêtros: ' + self.get_url_parametros() + '\n' + 'URL Base: ' + self.get_url_base()
-    
+## compara objetos independente da sua chave mas sim do conteudo
     def __eq__ (self,other):
         return self.url == other.url
         
