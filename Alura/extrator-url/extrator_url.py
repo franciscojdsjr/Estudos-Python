@@ -9,6 +9,7 @@ class ExtratorURL:
 #Retorna tamanho da string
     def __len__(self):
         return len(self.url)
+
 ##retorna o print no objeto
     def __str__(self):
         return self.url + '\n' + 'Paramêtros: ' + self.get_url_parametros() + '\n' + 'URL Base: ' + self.get_url_base()
