@@ -1,4 +1,4 @@
-from cpf import Cpf
+from Alura.python_brasilidades.validacao_documento import Cpf
 
 
 cpf_um = Cpf('01327740460')
