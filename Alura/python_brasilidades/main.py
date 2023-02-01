@@ -4,8 +4,6 @@ from datas_br import DatasBr
 ##print(datetime.today())
 
 
-numero = 1
-string = 'um'
+datas = DatasBr()
 
-print(len(numero))
-print(len(string))
+print(datas.tempo_cadastro())
