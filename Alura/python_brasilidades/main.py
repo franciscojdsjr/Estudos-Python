@@ -13,13 +13,13 @@ import requests
 
 #asims
 
-cep = 57081760
-objeto_cep = BuscaEndereco(cep)
-print(objeto_cep)
-
-
-bairro,cidade,uf = objeto_cep.acessa_via_cep()
-
-print(bairro,cidade,uf)
+##cep = 57081760
+##objeto_cep = BuscaEndereco(cep)
+##print(objeto_cep)
+##
+##
+##bairro,cidade,uf = objeto_cep.acessa_via_cep()
+##
+##print(bairro,cidade,uf)
 
 
