@@ -15,3 +15,9 @@ def teste_idade():
 
 teste_idade()
     
+    
+    
+# A importância da utilização de um ambiente virtual em projetos Python e como criar um através do comando 
+# python3 -m venv venv, 
+# ativando-o em seguida com o comando 
+# source venv/bin/activate;
