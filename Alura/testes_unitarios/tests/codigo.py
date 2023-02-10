@@ -21,6 +21,9 @@ class Funcionarios:
         ano_atual = date.today().year
         nascimento = datetime.strptime(self._data_nascimento, '%d/%m/%Y').date().year
         return ano_atual - nascimento
+
+    def sobrenome(self):
+        pass
     
     def calcular_bonus(self):
        valor = self._salario * 0.1
