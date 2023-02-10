@@ -23,7 +23,10 @@ class Funcionarios:
         return ano_atual - nascimento
 
     def sobrenome(self):
-        pass
+        nome_completo = self.nome.strip()
+        nome_quebrado = nome_completo.split(' ')
+        return nome_quebrado[-1]
+        
     
     def calcular_bonus(self):
        valor = self._salario * 0.1
