@@ -13,10 +13,10 @@ class TestClass:
         assert resultado == esperado #then - desfecho
 
     def test_quando_sobrenome_recebe_Francisco_Junior_deve_retornar_apenas_Junior(self):
-        entrada = 'Francisco Junior'
+        entrada = 'Francisco Junior' #given
         esperado = 'Junior'
-        francisco = Funcionarios(entrada,'29/12/1993',5000)
+        francisco = Funcionarios(entrada,'29/12/1993',5000) 
 
-        resultado = francisco.sobrenome()
+        resultado = francisco.sobrenome() #when
 
-        assert resultado == esperado
+        assert resultado == esperado #then

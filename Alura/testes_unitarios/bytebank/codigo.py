@@ -22,6 +22,13 @@ class Funcionarios:
         nascimento = datetime.strptime(self._data_nascimento, '%d/%m/%Y').date().year
         return ano_atual - nascimento
     
+    
+    def sobrenome(self):
+        nome_completo = self.nome.strip()
+        nome_quebrado = nome_completo.split(' ')
+        return nome_quebrado[-1]
+        
+    
     def calcular_bonus(self):
        valor = self._salario * 0.1
        if valor > 1000:
