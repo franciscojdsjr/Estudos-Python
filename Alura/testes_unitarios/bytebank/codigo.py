@@ -32,8 +32,6 @@ class Funcionarios:
         sobrenomes = ['Bragança', 'Windsor', 'Bourbon', 'Yamato', 'Al Saud', 'Khan', 'Tudor', 'Ptolomeu']
         if self.sobrenome() in sobrenomes:
             return True
-        else:
-            return False
     
     def decrescimo_salario(self):
           if (self.salario >= 10000) and (self._cargo_executivo() == True):

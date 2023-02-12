@@ -52,4 +52,20 @@ class TestClass:
 
             assert resultado #then
     
+    def test_retorno_str(self):
+            nome,data_nascimento,salario = 'Francisco Junior','29/12/1993',5000 #given
+            esperado = 'Funcionario(Nome: {}, Data de Nascimento: {}, Salario: R$:{})'.format(nome,data_nascimento,salario)
+            Funcinario_teste = Funcionarios(nome,data_nascimento,salario)
+
+            resultado = Funcinario_teste.__str__() #when
+
+            assert resultado == esperado #then
     
+    def test__cargo_executivo_retorna_true(self):
+        entrada = 'Francisco Yamato'
+        esperado = True
+        nome = Funcionarios(entrada,'29/12/1993',5000) 
+        
+        resultado = nome._cargo_executivo()
+        
+        assert resultado == esperado
