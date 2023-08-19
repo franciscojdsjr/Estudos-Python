@@ -1,0 +1,311 @@
+ Orientação a Objetos Completo - Classes e Métodos
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Instalando o PyCharm	Lira da Hashtag	06:01 min	0	---	
+   2. Classes e Objetos	Lira da Hashtag	10:01 min	0	---	
+   3. O que é uma Classe no nosso código	Lira da Hashtag	07:25 min	0	---	
+   4. Conceitos Importantes sobre Programação Orientada a Objetos	Lira da Hashtag	12:15 min	0	---	
+   5. Criando nossa 1ª Classe	Lira da Hashtag	11:02 min	0	---	
+   6. O que é o self das Classes	Lira da Hashtag	04:30 min	0	---	
+   7. Criando Métodos dentro das Classes	Lira da Hashtag	05:23 min	0	---	
+   8. Parâmetros nos Métodos das Classes	Lira da Hashtag	04:57 min	0	---	
+   9. Parâmetros no init da Classe	Lira da Hashtag	08:02 min	0	---	
+   10. Atributos de Classe	Lira da Hashtag	07:14 min	0	---	
+   11. Aplicação - Criando um Sistema de Conta Corrente	Lira da Hashtag	07:45 min	0	---	
+   12. Criando Métodos para a nossa Classe	Lira da Hashtag	12:34 min	0	---	
+   13. Métodos Auxiliares Regra de Métodos Simples e Direto ao Ponto	Lira da Hashtag	10:22 min	0	---	
+   14. Underline e Métodos Não Públicos	Lira da Hashtag	05:44 min	0	---	
+   15. Reforço de Organização e Padrões de Classe	Lira da Hashtag	03:39 min	0	---	
+   16. Modificando o init de uma Classe já existente	Lira da Hashtag	07:45 min	0	---	
+   17. Métodos Estáticos e Modificando Classe da Melhor Forma	Lira da Hashtag	18:55 min	0	---	
+   18. Usando objetos e instâncias como Parâmetro	Lira da Hashtag	11:14 min	0	---	
+   19. Atributos não Públicos	Lira da Hashtag	12:21 min	0	---	
+   20. Docstring em Classes	Lira da Hashtag	08:03 min	0	---	
+   21. Criando outra Classe e Relação entre Classes	Lira da Hashtag	17:14 min	0	---	
+   22. Atributos de Data e Aleatórios	Lira da Hashtag	11:15 min	0	---	
+   23. Regra do Python - Underline antes dos Atributos	Lira da Hashtag	19:21 min	0	---	
+   24. Listar Métodos e Atributos de uma Classe	Lira da Hashtag	02:59 min	0	---	
+   25. Separando Programa e Arquivo de Classes e Importando nossas Classes	Lira da Hashtag	06:06 min	0	---	
+   26. Criando uma nova Classe - Agências	Lira da Hashtag	12:45 min	0	---	
+   27. Criando SubClasses	Lira da Hashtag	08:47 min	0	---	
+   28. init em SubClasses e Herança	Lira da Hashtag	09:49 min	0	---	
+   29. Finalizando o init nas outras SubClasses	Lira da Hashtag	07:28 min	0	---	
+   30. Métodos Específicos de uma SubClasse	Lira da Hashtag	06:42 min	0	---	
+   31. Polimorfismo - Personalizando um Método em uma SubClasse	Lira da Hashtag	12:36 min	0	---	
+   32. Cuidado ao importar Arquivos de Classes	Lira da Hashtag	06:58 min	0	---	
+ Projeto 4 - Construindo um Site Completo do Zero com Flask
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Projeto 4 - Desenvolvimento Web - Criando um Site do Zero	Lira da Hashtag	07:35 min	0	---	
+   2. Como funcionam os sites	Lira da Hashtag	07:30 min	0	---	
+   3. Configurações do Projeto e Instalação do Flask	Lira da Hashtag	05:35 min	0	---	
+   4. Criando seu 1º Site com Flask	Lira da Hashtag	14:47 min	0	---	
+   5. Explicando os Decorators e Páginas Estáticas e Dinâmicas	Lira da Hashtag	09:35 min	0	---	
+   6. Criando templates HTML	Lira da Hashtag	06:57 min	0	---	
+   7. Como funciona HTML	Lira da Hashtag	11:57 min	0	---	
+   8. Base Visual das Páginas e Integrando arquivos HTML	Lira da Hashtag	08:38 min	0	---	
+   9. Usando Bootstrap no nosso site	Lira da Hashtag	06:21 min	0	---	
+   10. Puxando Informações de Forma Dinâmica do Python para o Site	Lira da Hashtag	12:52 min	0	---	
+   11. Criando Barra de Navegação	Lira da Hashtag	23:36 min	0	---	
+   12. Padronizando Links do Site	Lira da Hashtag	10:09 min	0	---	
+   13. Criando Página de Login e Criar Conta	Lira da Hashtag	09:09 min	0	---	
+   14. Formulários do Site	Lira da Hashtag	19:31 min	0	---	
+   15. Segurança dos Formulários no Site	Lira da Hashtag	05:54 min	0	---	
+   16. Adicionando Formulários no HTML	Lira da Hashtag	07:16 min	0	---	
+   17. Aplicando Bootstrap nos Formulários	Lira da Hashtag	24:53 min	0	---	
+   18. Liberando Método Post das Páginas	Lira da Hashtag	04:23 min	0	---	
+   19. csrf token e Mensagem de Sucesso nos Formulários	Lira da Hashtag	22:53 min	0	---	
+   20. Validações dos Campos dos Formulários	Lira da Hashtag	13:36 min	0	---	
+   21. Banco de Dados para o Site	Lira da Hashtag	08:00 min	0	---	
+   22. Criação das Tabelas do Banco de Dados	Lira da Hashtag	18:38 min	0	---	
+   23. Relacionamento entre Posts e Usuários	Lira da Hashtag	13:38 min	0	---	
+   24. Criando e Usando o Banco de Dados	Lira da Hashtag	24:17 min	0	---	
+   25. Reestruturando o Projeto	Lira da Hashtag	28:10 min	0	---	
+   26. Criando usuário no banco de dados com nosso formulário	Lira da Hashtag	10:10 min	0	---	
+   27. Criptografando a Senha do Usuário	Lira da Hashtag	10:16 min	0	---	
+   28. Criando validação Personalizada - Usuários Únicos	Lira da Hashtag	11:35 min	0	---	
+   29. Login dos Usuários	Lira da Hashtag	17:40 min	0	---	
+   30. Personalizando o Site para Usuários Logados	Lira da Hashtag	13:41 min	0	---	
+   31. Bloquear Página para Usuários Visitantes	Lira da Hashtag	07:17 min	0	---	
+   32. Redirecionamento Automático Inteligente	Lira da Hashtag	05:44 min	0	---	
+   33. Editando a Página de Perfil - HTML e CSS	Lira da Hashtag	17:51 min	0	---	
+   34. Carregando a imagem padrão de Perfil	Lira da Hashtag	08:11 min	0	---	
+   35. Carregando a imagem padrão de Perfil	Lira da Hashtag	21:13 min	0	---	
+   36. Funcionalidade do Formulário de Editar Perfil	Lira da Hashtag	13:17 min	0	---	
+   37. Campo de Edição de Foto de Perfil	Lira da Hashtag	12:51 min	0	---	
+   38. Salvar e Compactar Imagem no Banco de Dados	Lira da Hashtag	21:52 min	0	---	
+   39. Revisando o Site e Adicionando Cursos no Form do Perfil	Lira da Hashtag	14:04 min	0	---	
+   40. Editando o Campo Cursos do Banco de Dados	Lira da Hashtag	17:32 min	0	---	
+   41. Exibindo os Cursos do Usuário	Lira da Hashtag	15:07 min	0	---	
+   42. Preenchendo Lista de Usuários do Banco de Dados	Lira da Hashtag	11:02 min	0	---	
+   43. Permitir a Criação de Post	Lira da Hashtag	17:25 min	0	---	
+   44. Ajeitando a HomePage - Feed de Posts	Lira da Hashtag	14:07 min	0	---	
+   45. Terminando Edição dos Posts	Lira da Hashtag	12:27 min	0	---	
+   46. Uma Página para cada Post	Lira da Hashtag	12:45 min	0	---	
+   47. Criando Edição do Post	Lira da Hashtag	11:58 min	0	---	
+   48. Data de Criação, Editar e Excluir Post	Lira da Hashtag	14:39 min	0	---	
+   49. Excluir Post	Lira da Hashtag	12:53 min	0	---	
+   50. Método de Contagem de Posts	Lira da Hashtag	06:39 min	0	---	
+   51. Conclusão do Projeto	Lira da Hashtag	05:06 min	0	---	
+   52. Deploy de Site - Configurações	Lira da Hashtag	08:50 min	0	---	
+   53. Subindo nosso site no Servidor Heroku	Lira da Hashtag	16:10 min	0	---	
+   54. Novas edições futuras no site, o que fazer	Lira da Hashtag	03:57 min	0	---	
+ Interface Gráfica - Tkinter e Criando Sistemas com Python
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Tkinter - Criando uma Janela	Lira da Hashtag	07:33 min	0	---	
+   2. Caixa de Mensagem	Lira da Hashtag	08:03 min	0	---	
+   3. Edição de Caixa de Mensagem	Lira da Hashtag	08:41 min	0	---	
+   4. Entry - Caixa de Texto para o Usuário	Lira da Hashtag	06:11 min	0	---	
+   5. Grid - Organizando as Janelas do Tkinter	Lira da Hashtag	17:04 min	0	---	
+   6. Botões	Lira da Hashtag	07:25 min	0	---	
+   7. Interação entre Elementos do Tkinter	Lira da Hashtag	10:48 min	0	---	
+   8. Listas Suspensas	Lira da Hashtag	04:47 min	0	---	
+   9. Caixa de Textos Grandes	Lira da Hashtag	20:56 min	0	---	
+   10. Checkbox (Checkbutton)	Lira da Hashtag	12:07 min	0	---	
+   11. RadioButton (OptionButton)	Lira da Hashtag	12:22 min	0	---	
+   12. Pedir para o Usuário Selecionar Arquivo	Lira da Hashtag	07:19 min	0	---	
+   13. Apresentação do Projeto	Lira da Hashtag	03:13 min	0	---	
+   14. Idealização da Janela do Sistema	Lira da Hashtag	04:20 min	0	---	
+   15. Construção da Janela do Sistema	Lira da Hashtag	22:36 min	0	---	
+   16. Terminando a Construção da Janela do Sistema	Lira da Hashtag	23:00 min	0	---	
+   17. Criando lista de Moedas com API	Lira da Hashtag	06:57 min	0	---	
+   18. Função pegar_cotacao	Lira da Hashtag	15:41 min	0	---	
+   19. Botão de Selecionar Arquivo	Lira da Hashtag	10:02 min	0	---	
+   20. Função Atualizar Cotações	Lira da Hashtag	13:45 min	0	---	
+   21. Finalizando Atualizar Cotações e o Projeto	Lira da Hashtag	19:00 min	0	---	
+ Gravação Encontros ao Vivo
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. 1º Encontro - Como funciona um Projeto de Ciência de Dados	Lira da Hashtag	01:34:54 h	0	---	
+   2. 2ª Mentoria ao Vivo - Automação Completo do Zero ao Fim	Lira da Hashtag	02:04:28 h	0	---	
+   3. 3º Encontro de Mentoria - Análises Financeiras com Python	Lira da Hashtag	02:24:11 h	0	---	
+   4. Mentoria - Como uma Inteligência Artificial aprende?	Lira da Hashtag	01:50:03 h	0	---	
+   5. Mentoria - Trabalhando com PDFs em Python	Lira da Hashtag	02:38:42 h	0	---	
+   6. RPA com Python - Automatizando Processos e Sistemas	Lira da Hashtag	02:16:02 h	0	---	
+   7. Introdução a HTML	Lira da Hashtag	01:50:53 h	0	---	
+   8. Mentoria API Google Sheets	Lira da Hashtag	01:48:50 h	0	---	
+   9. Mentoria Integração Jupyter com Power BI	Lira da Hashtag	01:44:48 h	0	---	
+   10. Mentoria - Reconhecimento de Imagens com Python - OpenCV	Lira da Hashtag	01:53:00 h	0	---	
+   11. Criação de REST API com Python	Lira da Hashtag	02:20:46 h	0	---	
+   12. Mentoria - Criação de Sistemas Bonitos e Completos em Python	Lira da Hashtag	02:12:53 h	0	---	
+   13. Reconhecimento de Fala - SpeechRecognition	Lira da Hashtag	02:03:23 h	0	---	
+   14. Mentoria - Controle de Estoque em Python (Sistema Bonito e CRUD)	Lira da Hashtag	02:17:01 h	0	---	
+   15. Mentoria - Leitura de XML e Notas Fiscais com Python	Lira da Hashtag	01:57:56 h	0	---	
+   16. Mentoria Ciência de Dados - Reconhecimento de Imagem e Como quebrar CAPTCHA	Lira da Hashtag	01:42:06 h	0	---	
+   17. Mentoria - Dashboards com Dash e Plotly	Lira da Hashtag	02:35:04 h	0	---	
+   18. Mentoria - Automação de ERPs (Totvs, SAP e outros) com Python	Lira da Hashtag	02:51:21 h	0	---	
+ Intensivão de Python (1ª edição - Aulas Diferentes do Intensivão Atual)
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Intensivão de Python [Aula 1]	Lira da Hashtag	02:27:34 h	0	---	
+   2. Intensivão de Python [Aula 2]	Lira da Hashtag	02:19:42 h	0	---	
+   3. Intensivão de Python [Aula 3]	Lira da Hashtag	02:03:04 h	0	---	
+   4. Intensivão de Python [Aula 4]	Lira da Hashtag	02:01:36 h	0	---	
+ Semana do Python (Evento que fizemos antes do Intensivão de Python - Conteúdo Parecido)
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Semana do Python [Aula 1]	Lira da Hashtag	02:22:46 h	0	---	
+   2. Semana do Python [Aula 2]	Lira da Hashtag	02:25:30 h	0	---	
+   3. Semana do Python [Aula 3]	Lira da Hashtag	01:50:45 h	0	---	
+   4. Semana do Python [Aula 4]	Lira da Hashtag	01:50:00 h	0	---	
+ Criação de Jogos
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Configurações Iniciais	Lira da Hashtag	04:36 min	0	---	
+   2. Parâmetros do Jogo	Lira da Hashtag	06:44 min	0	---	
+   3. Objetos do Jogo e Inicializando o Pássaro	Lira da Hashtag	10:52 min	0	---	
+   4. Funções de Pular e Mover o Pássaro	Lira da Hashtag	13:30 min	0	---	
+   5. Funções Desenhar e Colisão do Pássaro	Lira da Hashtag	17:52 min	0	---	
+   6. Criando o Cano	Lira da Hashtag	09:56 min	0	---	
+   7. Mover, Desenhar e Colidir o Cano	Lira da Hashtag	07:56 min	0	---	
+   8. Criando o Chao	Lira da Hashtag	08:57 min	0	---	
+   9. Função desenhar tela	Lira da Hashtag	07:27 min	0	---	
+   10. Função Principal - Criação e Interação com Usuário	Lira da Hashtag	10:16 min	0	---	
+   11. Finalizando a Função Principal - Movimentação dos Objetos	Lira da Hashtag	12:01 min	0	---	
+   12. Executando, Corrigindo Bugs e Finalizando o Projeto	Lira da Hashtag	06:52 min	0	---	
+ Criação de Aplicativo para Celular com Kivy
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Apresentação do Aplicativo	Lira da Hashtag	06:52 min	0	---	
+   2. Telas e Funcionalidades do Aplicativo	Lira da Hashtag	09:43 min	0	---	
+   3. Configurando nosso sistema	Lira da Hashtag	05:33 min	0	---	
+   4. Como iniciar qualquer Aplicativo Kivy	Lira da Hashtag	06:36 min	0	---	
+   5. Funcionamento básico dos arquivos kv	Lira da Hashtag	09:21 min	0	---	
+   6. Criando uma tela no aplicativo	Lira da Hashtag	04:37 min	0	---	
+   7. Criar um gerenciador de telas	Lira da Hashtag	07:40 min	0	---	
+   8. Criando uma nova página (Ajustes)	Lira da Hashtag	04:13 min	0	---	
+   9. Criando função para Navegar entre Telas	Lira da Hashtag	15:25 min	0	---	
+   10. Funcionamento do FloatLayout	Lira da Hashtag	15:42 min	0	---	
+   11. Aplicação do FloatLayout - Padrão de Imagem de Perfil	Lira da Hashtag	17:01 min	0	---	
+   12. Imagem como Fundo de Tela e Aplicação do Canvas	Lira da Hashtag	10:42 min	0	---	
+   13. Criando Botões Personalizados - LabelButton e ImageButton	Lira da Hashtag	09:02 min	0	---	
+   14. Ajeitando o Layout da Página de Ajustes	Lira da Hashtag	22:45 min	0	---	
+   15. Ajeitando o Layout da HomePage	Lira da Hashtag	13:59 min	0	---	
+   16. Criando várias páginas de uma vez	Lira da Hashtag	15:04 min	0	---	
+   17. Criando o Banco de Dados do Firebase	Lira da Hashtag	17:54 min	0	---	
+   18. Pegando informações do Banco de Dados	Lira da Hashtag	11:21 min	0	---	
+   19. Atualizar um item do kv pelo código Python - Foto de Perfil	Lira da Hashtag	06:43 min	0	---	
+   20. Preparando um ScrollView	Lira da Hashtag	14:57 min	0	---	
+   21. Adicionando nosso Banner por meio do Python	Lira da Hashtag	10:04 min	0	---	
+   22. Criando nosso Widget Personalizado - Banner de Vendas	Lira da Hashtag	33:32 min	0	---	
+   23. Lista de Fotos de Perfil	Lira da Hashtag	17:51 min	0	---	
+   24. Atualizar Informações no Banco de Dados - Mudar foto de Perfil	Lira da Hashtag	14:48 min	0	---	
+   25. Criar Página de Login	Lira da Hashtag	20:40 min	0	---	
+   26. Criar Conta do Usuário - Google REST API	Lira da Hashtag	18:28 min	0	---	
+   27. Exibindo Erros na Criação do Usuário	Lira da Hashtag	10:15 min	0	---	
+   28. Salvando o token do Usuário	Lira da Hashtag	15:41 min	0	---	
+   29. Criando o Usuário no Banco de Dados	Lira da Hashtag	10:31 min	0	---	
+   30. Carregar Informações do Usuário após Criar Conta	Lira da Hashtag	09:10 min	0	---	
+   31. Perpetuando o Login do Usuário	Lira da Hashtag	16:02 min	0	---	
+   32. Funcionalidade de Fazer Login	Lira da Hashtag	09:16 min	0	---	
+   33. Criando um ID compartilhável	Lira da Hashtag	16:57 min	0	---	
+   34. Preenchendo Total de Vendas e ID com informações do Banco de Dados	Lira da Hashtag	10:02 min	0	---	
+   35. Página de Adicionar Vendedor	Lira da Hashtag	11:05 min	0	---	
+   36. Criando Banner Vendedor e Editando o Banco de Dados	Lira da Hashtag	40:58 min	0	---	
+   37. Adicionar Vendedor à Equipe	Lira da Hashtag	24:21 min	0	---	
+   38. Tela Adicionar Vendas	Lira da Hashtag	19:49 min	0	---	
+   39. Preencher Lista de Clientes e Produtos	Lira da Hashtag	12:23 min	0	---	
+   40. Marcar um item quando selecionado	Lira da Hashtag	25:13 min	0	---	
+   41. Adicionar Venda no Banco de Dados	Lira da Hashtag	42:41 min	0	---	
+   42. Corrigindo o Bug da Homepage	Lira da Hashtag	11:54 min	0	---	
+   43. Página de Todas as Vendas	Lira da Hashtag	23:11 min	0	---	
+   44. Corrigindo Vendas Duplicadas e Criando Página Vendas Outros Vendedores	Lira da Hashtag	07:23 min	0	---	
+   45. Carregando Informações dos Outros Vendedores	Lira da Hashtag	25:28 min	0	---	
+   46. Ajeitando o Botão de Voltar	Lira da Hashtag	05:03 min	0	---	
+   47. Corrigindo Bug de Vendas sobrepostas	Lira da Hashtag	05:05 min	0	---	
+   48. Criando as Regras de Segurança de Dados	Lira da Hashtag	19:50 min	0	---	
+   49. Implementando Autenticação do Banco de Dados nas requisições	Lira da Hashtag	13:51 min	0	---	
+   50. Encerrando o Aplicativo	Lira da Hashtag	03:28 min	0	---	
+   51. Deploy Android - Introdução e Explicações Gerais	Lira da Hashtag	05:45 min	0	---	
+   52. Deploy Android - Criando uma conta no GitHub e Criando um repositório	Lira da Hashtag	10:54 min	0	---	
+   53. Deploy Android - Alterações no nosso código em Python	Lira da Hashtag	07:24 min	0	---	
+   54. Deploy Android - Configurando uma máquina virtual	Lira da Hashtag	06:02 min	0	---	
+   55. Deploy Android - Configurações da BIOS para liberar Virtualização	Lira da Hashtag	05:24 min	0	---	
+   56. Deploy Android - Instalação do Ubuntu	Lira da Hashtag	10:40 min	0	---	
+   57. Deploy Android - Configurações Importantes no nosso Ubunto	Lira da Hashtag	23:07 min	0	---	
+   58. Deploy Android - Deploy do Projeto	Lira da Hashtag	26:05 min	0	---	
+   59. Deploy Android - Corrigindo erros no deploy e ajeitando as permissões do Android	Lira da Hashtag	10:49 min	0	---	
+   60. Deploy Android - Comentários sobre a forma de deploy do aplicativo	Lira da Hashtag	05:40 min	0	---	
+   61. Deploy Android - Gerando uma versão de produção	Lira da Hashtag	18:22 min	0	---	
+   62. Deploy Android - Comentários Finais: Gerando uma versão de outra arquitetura e novas versões	Lira da Hashtag	08:27 min	0	---	
+ GitHub para Organização dos Projetos
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. O que é o Git e o GitHub e porque isso é importante	Lira da Hashtag	04:42 min	0	---	
+   2. Instalando o GitHub Desktop	Lira da Hashtag	06:12 min	0	---	
+   3. Repositório e Arquivos Locais	Lira da Hashtag	03:50 min	0	---	
+   4. Criando um Repositório (pelo GitHub Desktop e pelo GitHub Online)	Lira da Hashtag	09:25 min	0	---	
+   5. Importando um repositório existente no GitHub	Lira da Hashtag	08:45 min	0	---	
+   6. Alterações no seu código e versão do seu projeto no GitHub	Lira da Hashtag	08:04 min	0	---	
+   7. Branches	Lira da Hashtag	10:47 min	0	---	
+   8. Recuperar uma versão antiga e atualizações Forçadas	Lira da Hashtag	15:56 min	0	---	
+   9. Comentários Finais sobre o GitHub	Lira da Hashtag	03:26 min	0	---	
+ Intensivão de Python (Versão Atual)
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Aula 1 - Intensivão de Python - Automação de Processos e Sistemas (RPA)	Lira da Hashtag	01:53:22 h	0	---	
+   2. Aula 2 - Intensivão de Python - Análise de Dados com Python	Lira da Hashtag	02:01:53 h	0	---	
+   3. Aula 3 - Intensivão de Python - Automação Web	Lira da Hashtag	01:36:23 h	0	---	
+   4. Aula 4 - Intensivão de Python - Ciência de Dados e Inteligência Artificial	Lira da Hashtag	01:50:48 h	0	---	
+ 
+Criação de Sites com Django - Criando uma cópia do Netflix
+Professor: Lira da Hashtag
+
+Título da Aula	Professor	Duração/Páginas	Visualizações	Último Acesso	Suporte
+   1. Apresentação do Projeto - Cópia do Netflix - Hashflix	Lira da Hashtag	05:32 min	0	---	
+   2. Diferença do Django e do Flask	Lira da Hashtag	04:34 min	0	---	
+   3. O que você precisa fazer antes desse projeto	Lira da Hashtag	04:31 min	0	---	
+   4. Planejamento do Site	Lira da Hashtag	06:35 min	0	---	
+   5. Iniciando o Projeto e Estrutura Inicial do Django	Lira da Hashtag	08:57 min	0	---	
+   6. Criando seu 1º app do site	Lira da Hashtag	08:10 min	0	---	
+   7. Migrations e Criando um SuperUser	Lira da Hashtag	10:00 min	0	---	
+   8. Conectando um app novo no seu projeto	Lira da Hashtag	09:28 min	0	---	
+   9. Explicando o arquivo settings	Lira da Hashtag	10:47 min	0	---	
+   10. Criando o modelo do Filme - Adicionar tabelas no Banco de Dados	Lira da Hashtag	21:30 min	0	---	
+   11. Adicionando o modelo do Filme no Administrador	Lira da Hashtag	10:15 min	0	---	
+   12. Configurando pastas static e media	Lira da Hashtag	13:55 min	0	---	
+   13. Criando uma página do nosso site	Lira da Hashtag	12:43 min	0	---	
+   14. Criando seus templates e a estrutura de templates do site	Lira da Hashtag	08:16 min	0	---	
+   15. Criando uma base em html e conectando aos templates	Lira da Hashtag	11:29 min	0	---	
+   16. Criando o navbar e editando html com tailwind	Lira da Hashtag	35:38 min	0	---	
+   17. Editando a homepage	Lira da Hashtag	29:30 min	0	---	
+   18. Function Based Views x Class Based Views	Lira da Hashtag	06:42 min	0	---	
+   19. Passando parâmetros para as páginas html - Context	Lira da Hashtag	17:53 min	0	---	
+   20. Transformando nossas Views em Classes	Lira da Hashtag	12:34 min	0	---	
+   21. Criando uma View para cada Filme	Lira da Hashtag	16:31 min	0	---	
+   22. Criando links dinâmicos no site	Lira da Hashtag	15:26 min	0	---	
+   23. Modelo de Episódios e Chave Estrangeira	Lira da Hashtag	20:44 min	0	---	
+   24. Vídeos em Tela Cheia e Listando Episódios no HTML	Lira da Hashtag	17:33 min	0	---	
+   25. Passando variáveis personalizadas para as Views	Lira da Hashtag	17:09 min	0	---	
+   26. Criando nossos Gerenciadores de Contexto - Variáveis para todos os templates	Lira da Hashtag	17:30 min	0	---	
+   27. Contagem de Visualizações	Lira da Hashtag	16:27 min	0	---	
+   28. Editando a Página de Detalhes do Filme	Lira da Hashtag	17:58 min	0	---	
+   29. Editando a Página Home dos Filmes	Lira da Hashtag	25:03 min	0	---	
+   30. Edições Dinâmicas com Javascript e Filme em Destaque	Lira da Hashtag	15:28 min	0	---	
+   31. Campo de Pesquisa	Lira da Hashtag	26:52 min	0	---	
+   32. Criando nosso Usuário Personalizado e adaptando o projeto	Lira da Hashtag	29:14 min	0	---	
+   33. Lista de Filmes Vistos pelo Usuário	Lira da Hashtag	14:00 min	0	---	
+   34. Registrando Filme Visto de Forma Dinâmica	Lira da Hashtag	06:40 min	0	---	
+   35. Bloqueio de Páginas apenas para usuários com login	Lira da Hashtag	16:57 min	0	---	
+   36. Personalizando a barra de navegação para usuários	Lira da Hashtag	16:39 min	0	---	
+   37. Finalizando a barra de navegação e processo de logout	Lira da Hashtag	11:25 min	0	---	
+   38. Páginas de Login e Logout	Lira da Hashtag	27:12 min	0	---	
+   39. Criar formulários personalizados e Criar Conta do Usuário	Lira da Hashtag	23:11 min	0	---	
+   40. Redirecionamento Dinâmico de usuários	Lira da Hashtag	18:43 min	0	---	
+   41. Editar Perfil e Mudar senha do usuário	Lira da Hashtag	18:39 min	0	---	
+   42. Comentários e Próximos passos	Lira da Hashtag	05:49 min	0	---	
+   43. Deploy do Site - Colocando o site no ar com Heroku	Lira da Hashtag	41:16 min	0	---	
+   44. Banco de Dados online	Lira da Hashtag	14:48 min	0	---	
+   45. Arquivos de Mídia em Produção no Heroku com Cloudinary	Lira da Hashtag	11:23 min	0	---	
+   46. Comentários Finais	Lira da Hashtag	03:03 min	0	---	
